@@ -1,0 +1,11 @@
+download termux in googleply
+
+open termux
+-------------------------------
+pkg install python
+pkg install python2
+pkg install python3
+---------------------------
+open file in termux
+-------------------------------
+python3 sudohidden.py

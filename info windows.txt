@@ -1,0 +1,14 @@
+install python in windows
+
+https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe
+
+------------------
+install python
+----------------
+open python 
+------------------
+ctrl+o
+--------------
+sudohidn.py
+------------------
+run
